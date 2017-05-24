@@ -1,0 +1,96 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="apppusatsejahtera.com" resolutions="1x" timestamp="1495594637026">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_b-master.css" crc="4086977418" ref="map:medical"/>
+    <file name="xray.css" crc="3825155787" ref="xray"/>
+    <file name="pharmacy.css" crc="414148119" ref="pharmacy"/>
+    <file name="clinical-zone.css" crc="3917249146" ref="clinical-zone"/>
+    <file name="hemodialisis.css" crc="3976936713" ref="hemodialisis"/>
+    <file name="index.css" crc="499537339" ref="index"/>
+    <file name="how-get-to-2nd-floor.css" crc="4197301202" ref="how-get-to-2nd-floor"/>
+    <file name="dental.css" crc="4093824841" ref="dental"/>
+    <file name="map.css" crc="225176353" ref="map"/>
+    <file name="about-us.css" crc="4011961540" ref="about-us"/>
+    <file name="where-is-the-washroom.css" crc="3960177630" ref="where-is-the-washroom"/>
+    <file name="doctor-s-rooms.css" crc="11838903" ref="doctor-s-rooms"/>
+    <file name="medical.css" crc="3996225878" ref="medical"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:map:about-us:how-get-to-2nd-floor:where-is-the-washroom:clinical-zone:pharmacy:hemodialisis:dental:medical:doctor-s-rooms:xray"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:index:map:about-us:how-get-to-2nd-floor:where-is-the-washroom:clinical-zone:pharmacy:hemodialisis:dental:medical:doctor-s-rooms:xray"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:map:about-us:how-get-to-2nd-floor:where-is-the-washroom:clinical-zone:pharmacy:hemodialisis:dental:medical:doctor-s-rooms:xray"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:index:map:about-us:how-get-to-2nd-floor:where-is-the-washroom:clinical-zone:pharmacy:hemodialisis:dental:medical:doctor-s-rooms:xray"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index:map:about-us:how-get-to-2nd-floor:where-is-the-washroom:clinical-zone:pharmacy:hemodialisis:dental:medical:doctor-s-rooms:xray"/>
+    <file name="require.js" crc="244322403" ref="phone>index:index:map:about-us:how-get-to-2nd-floor:where-is-the-washroom:clinical-zone:pharmacy:hemodialisis:dental:medical:doctor-s-rooms:xray"/>
+    <file name="webpro.js" crc="3848665353" ref="map"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="map"/>
+  </folder>
+  <folder name="images">
+    <file name="psjhb.png" crc="321104920" seo="true" ref="index"/>
+    <file name="pusatsejahteralogo.png" crc="4155200778" seo="true" ref="index"/>
+    <file name="u158-4.png" crc="228359546" ref="index"/>
+    <file name="cross.png" crc="84394159" seo="true" ref="index:medical"/>
+    <file name="u312-4.png" crc="161835862" ref="index"/>
+    <file name="u296-6.png" crc="3868557247" ref="index"/>
+    <file name="gigi.png" crc="3804710440" seo="true" ref="index:dental"/>
+    <file name="u290-4.png" crc="59560187" ref="index"/>
+    <file name="u329-6.png" crc="4020233389" ref="index"/>
+    <file name="wp.png" crc="3975185649" seo="true" ref="index:pharmacy"/>
+    <file name="u277-4.png" crc="4030249923" ref="index"/>
+    <file name="u335-6.png" crc="4219683825" ref="index"/>
+    <file name="qmark.png" crc="55862010" seo="true" ref="index:about-us"/>
+    <file name="u325-4.png" crc="252062903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="map"/>
+    <file name="u463.png" crc="4189094927" ref="map"/>
+    <file name="u463-r.png" crc="458279420" ref="map"/>
+    <file name="u463-m.png" crc="458279420" ref="map"/>
+    <file name="u463-a.png" crc="4071782186" ref="map"/>
+    <file name="1floor.png" crc="4195623027" seo="true" ref="map"/>
+    <file name="u459.png" crc="324585768" ref="map"/>
+    <file name="u459-r.png" crc="4006759057" ref="map"/>
+    <file name="u459-m.png" crc="4006759057" ref="map"/>
+    <file name="u459-a.png" crc="506907351" ref="map"/>
+    <file name="2floor-crop-u726.png" crc="4056155837" ref="map"/>
+    <file name="u549-8.png" crc="4167342120" ref="about-us"/>
+    <file name="u555-8.png" crc="4264030739" ref="about-us"/>
+    <file name="u558-4.png" crc="3984296658" ref="about-us"/>
+    <file name="u601-4.png" crc="4135822988" ref="how-get-to-2nd-floor"/>
+    <file name="how-to-get-to.gif" crc="3819367661" seo="true" ref="how-get-to-2nd-floor"/>
+    <file name="u631-5.png" crc="3914548239" ref="where-is-the-washroom"/>
+    <file name="washroom.gif" crc="4076216276" seo="true" ref="where-is-the-washroom"/>
+    <file name="u701-4.png" crc="102531948" ref="clinical-zone"/>
+    <file name="clinical-zonbe.gif" crc="413938977" seo="true" ref="clinical-zone"/>
+    <file name="u670-4.png" crc="3817016640" ref="pharmacy"/>
+    <file name="pharmacy.gif" crc="3837868586" seo="true" ref="pharmacy"/>
+    <file name="u768-4.png" crc="270723774" ref="hemodialisis"/>
+    <file name="haemod.gif" crc="397578103" seo="true" ref="hemodialisis"/>
+    <file name="u813-4.png" crc="414038507" ref="dental"/>
+    <file name="dental.gif" crc="4008881117" seo="true" ref="dental"/>
+    <file name="u847-4.png" crc="4218003244" ref="medical"/>
+    <file name="u860-4.png" crc="4117746181" ref="medical"/>
+    <file name="u857-4.png" crc="4074801561" ref="medical"/>
+    <file name="u867-4.png" crc="3772391152" ref="medical"/>
+    <file name="u885-4.png" crc="164107143" ref="doctor-s-rooms"/>
+    <file name="bilik-dorktor.gif" crc="136845038" seo="true" ref="doctor-s-rooms"/>
+    <file name="u912-4.png" crc="82221440" ref="xray"/>
+    <file name="xray.gif" crc="320466640" seo="true" ref="xray"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="477406027" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="163875310" seo="true" mt="1495594374504" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="211651557" seo="true" mt="1495594307055" redirect="true"/>
+  <file name="map.html" crc="4148128202" seo="true" mt="1495479508342" redirect="true"/>
+  <file name="about-us.html" crc="367737414" seo="true" mt="1495442595307" redirect="true"/>
+  <file name="how-get-to-2nd-floor.html" crc="117786167" seo="true" mt="1495459251422" redirect="true"/>
+  <file name="where-is-the-washroom.html" crc="495315387" seo="true" mt="1495459730363" redirect="true"/>
+  <file name="clinical-zone.html" crc="306949253" seo="true" mt="1495534780121" redirect="true"/>
+  <file name="pharmacy.html" crc="226637457" seo="true" mt="1495478969583" redirect="true"/>
+  <file name="hemodialisis.html" crc="3884292633" seo="true" mt="1495479265427" redirect="true"/>
+  <file name="dental.html" crc="4241010140" seo="true" mt="1495479982398" redirect="true"/>
+  <file name="medical.html" crc="3938478405" seo="true" mt="1495534657899" redirect="true"/>
+  <file name="doctor-s-rooms.html" crc="3880320120" seo="true" mt="1495534753855" redirect="true"/>
+  <file name="xray.html" crc="3869973467" seo="true" mt="1495534766923" redirect="true"/>
+</manifest>
